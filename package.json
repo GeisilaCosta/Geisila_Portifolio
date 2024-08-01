@@ -1,12 +1,13 @@
 {
-  "name": "geisila-portifolio",
+  "name": "Geisila_Portifolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
+ "scripts": {
+  "build": "vite build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+},
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
