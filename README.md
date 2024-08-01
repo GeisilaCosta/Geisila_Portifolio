@@ -16,7 +16,7 @@ Firebase Authentication para gerenciamento de usuários Firebase Firestore para 
 
 Clone o repositório:
 
-bash Copiar código git clone https://github.com/GeisilaCosta/GeisilaPortBlog.git cd seu-repositorio Instale as dependências:
+bash Copiar código git clone https://github.com/GeisilaCosta/Geisila_Portifolio.git cd seu-repositorio Instale as dependências:
 
 bash Copiar código npm install Configure o Firebase:
 
