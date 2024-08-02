@@ -8,9 +8,12 @@ const Navbar = () => {
       <Link to="/about">Sobre Mim</Link>
       <Link to="/projects">Projetos</Link>
       <Link to="/contact">Contato</Link>
+      <Link to="/blog">Blog</Link>
+      <Link to="/languages">Linguagens</Link>
     </nav>
   );
 };
 
 export default Navbar;
+
 
